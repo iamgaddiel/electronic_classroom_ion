@@ -1,0 +1,7 @@
+{
+  "name": "electronic_classroom_ion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
